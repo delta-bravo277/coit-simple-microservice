@@ -10,4 +10,4 @@ To learn more about Kubernetes and other related topics check the following exam
 * Envoy series - to be added!
 
 
-Added image to sanketlawande1 docker hub account and updated coit-frontend-deployment.yaml
+Added image to sanketlawande1/coit-frontend-sec:v1 docker hub account and updated coit-frontend-deployment.yaml
